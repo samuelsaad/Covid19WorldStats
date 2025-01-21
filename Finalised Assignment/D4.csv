@@ -1,0 +1,83 @@
+source_name,sum(vbm.total_vaccinations),source_url
+Africa Centres for Disease Control and Prevention,120535894,https://twitter.com/BWGovernment/status/1484200376723283973
+COVID-19 Malta Public Health Response Team,234928218,https://github.com/COVID19-Malta/COVID19-Cases
+COVID-19 Vaccine Information Platform,26642697499,https://covid19asi.saglik.gov.tr/
+Centers for Disease Control and Prevention,221974001094,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+Costa Rican Social Security Fund,190532998,https://www.ccss.sa.cr/web/coronavirus/vacunacion
+Department of Health via ABS-CBN Investigative and Research Group,7909479427,https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker
+Directorate General for Health via Data Science for Social Good,3221748627,https://github.com/dssg-pt/covid19pt-data
+Directorate General of Health Services,7731755096,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+Directorate of Health,38591078,https://www.covid.is/tolulegar-upplysingar-boluefni
+"European CDC, via Marino van Zelst",1822077146,https://github.com/mzelst/covid-19
+Extraordinary commissioner for the Covid-19 emergency,22821240355,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+Federal Office of Public Health,2987816797,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=FL
+Finnish Institute for Health and Welfare,785100167,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov
+Food and Health Bureau,2034450765,https://data.gov.hk/en-data/dataset/hk-fhb-fhbcovid19-vaccination-rates-over-time-by-age
+Government of Aruba,32478709,https://www.government.aw
+Government of Australia via CovidBaseAU,21056457310,https://covidbaseau.com/
+Government of Azerbaijan,1932839976,https://koronavirusinfo.az/storage/app/fnguBvyL1E2bn3KrdIcPDIx2mVklKl4dmymyT1yF.pdf
+Government of Curacao,41627873,https://bakuna.cw/
+Government of Ecuador via Ecuacovid,4840135267,https://github.com/andrab/ecuacovid
+Government of Gibraltar,15120386,https://twitter.com/GibraltarGov/status/1489604337655599104
+Government of Greenland,5926975,https://corona.nun.gl
+Government of Guernsey,8171650,https://covid19.gov.gg/guidance/vaccine/stats
+Government of Hungary,1120951583,https://koronavirus.gov.hu//cikkek/6-millio-375-ezer-beoltott-7053-az-uj-fertozott-es-elhunyt-94-beteg
+Government of India,234467025010,https://dashboard.cowin.gov.in/
+Government of Indonesia,30219832860,https://data.covid19.go.id/public/index.html
+Government of Israel,4839940830,https://datadashboard.health.gov.il/COVID-19/general
+Government of Jersey,12002421,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
+Government of Kazakhstan,3122619993,https://www.coronavirus2020.kz/
+Government of Lebanon,731054777,https://impact.cib.gov.lb/home/dashboard/vaccine
+Government of Luxembourg,207265261,https://data.public.lu/en/datasets/donnees-covid19/#_
+Government of Macao,103127035,https://www.ssm.gov.mo/docs/19164/19164_ade704e23bd64e19acaa6fd35f19509f_000_.pdf
+Government of Malaysia,9935802981,https://github.com/MoH-Malaysia/covid19-public
+Government of Montenegro,108199034,https://www.covidodgovor.me/
+Government of North Macedonia,117183239,https://worldhealthorg.shinyapps.io/EURO_COVID-19_vaccine_monitor/
+Government of Romania via datelazi.ro,3444894924,https://datelazi.ro/
+Government of Saint Helena,24233,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/
+Government of Serbia,957799123,https://vakcinacija.gov.rs/
+Government of Singapore,2292641969,https://data.gov.sg/dataset/covid-19-vaccination
+Government of Suriname,64961839,https://laatjevaccineren.sr/
+Government of Thailand,13743571275,https://ddc.moph.go.th/covid19-dashboard/
+Government of Uzbekistan,3288903101,https://coronavirus.uz/uz/lists
+Government of Zambia,123782931,https://rtc-planning.maps.arcgis.com/apps/dashboards/3b3a01c1d8444932ba075fb44b119b63
+Government of the Faeroe Islands,8093218,https://corona.fo/api
+Government of the Falkland Islands,14163,https://www.facebook.com/FalkIandsGov/posts/4401230323224594
+Government of the United Kingdom,83055377957,https://coronavirus.data.gov.uk/details/vaccinations
+Heath Service Executive,1938150641,https://covid19ireland-geohive.hub.arcgis.com/
+Isle of Man Government,22093684,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+Korea Centers for Disease Control and Prevention,16442797037,https://ncv.kdca.go.kr/
+Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,7625308770,https://www.datosabiertos.gob.pe/dataset/vacunacion
+Ministry of Health,85784250034,https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timeline.csv
+Ministry of Health via https://www.boligrafica.com/,1751533729,https://github.com/dquintani/vacunacion/
+Ministry of Health via ikon.mn,927154992,https://ikon.mn/
+Ministry of Health via vacuna.uy,1407638484,https://monitor.uruguaysevacuna.gub.uy/
+Ministry of Health's Epidemiology Unit,5124853952,http://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-02_06.pdf
+"Ministry of Health, via Ministry of Science GitHub repository",8552954778,https://github.com/MinCiencia/Datos-COVID19
+Ministry of Public Health,3997344759,https://vacunate.gob.do/
+National Center for Disease Control and Public Health,250486988,https://vaccines.ncdc.ge/vaccinationprocess/
+National Command and Operation Centre,12546195225,https://ncoc.gov.pk/covid-vaccination-en.php
+National Council,867304,https://en.gouv.mc/Policy-Practice/Social-Affairs-and-Health/News/Minister-of-State-visits-those-working-to-combat-COVID
+National Emergency Crisis and Disaster Management Authority,4844447082,https://fcsc.gov.ae/en-us/Pages/Covid19/UAE-Covid-19-Updates.aspx
+National Health Board,359464016,https://opendata.digilugu.ee
+National Health Commission,552021396700,http://www.nhc.gov.cn/xcs/s3574/202202/88e8d8419cc849838f17a13106464b93.shtml
+National Health Security Agency,213435430,https://twitter.com/anss_guinee/status/1490651631641411590
+National Health Service,475757744,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+National Institute of Public Health via covid-19.sledilnik.org,586761777,https://covid-19.sledilnik.org/sl/stats
+Norwegian Institute of Public Health,1990373003,https://github.com/folkehelseinstituttet/surveillance_data
+Official data from local governments via gogov.ru,22753059496,https://gogov.ru/articles/covid-v-stats
+Official data from provinces via covid19tracker.ca,44965626057,https://covid19tracker.ca/vaccinationtracker.html
+Pan American Health Organization,1669753150,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
+Presidency of the Maldives,160940921,https://twitter.com/HPA_MV/status/1490372218424987653
+Prime Minister's Office,23320729378,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+Public Health Agency of Sweden,1105950050,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/
+Public Health France,25689851803,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+Robert Koch Institut,31134945414,https://impfdashboard.de/
+SPC Public Health Division,69046702,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
+Saudi Health Council,10134271465,https://covid19.moh.gov.sa/
+Sciensano,4501011384,https://epistat.wiv-isp.be/covid/
+Secretary of Health,21241388350,http://www.gob.mx/cms/uploads/attachment/file/702075/2022.02.07_17h00_ComunicadoTecnicoDiario_Covid19.pdf
+State governments via coronavirusbra1.github.io,59711352903,https://coronavirusbra1.github.io
+Statens Serum Institute,2360308225,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata
+Taiwan Centers for Disease Control,3659729341,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+World Health Organization,29863972749,https://covid19.who.int/
